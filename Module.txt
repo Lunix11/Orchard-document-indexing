@@ -1,0 +1,11 @@
+﻿Name: Contrib.Indexing.Documents
+AntiForgery: enabled
+Author: The Orchard Team
+Website: http://orchardproject.net
+Version: 1.8
+OrchardVersion: 1.8
+Description: Indexing the document contents by lucene on the media Library
+Features:
+    Contrib.Indexing.Documents:
+        Description: Indexing the document contents by lucene on the media Library
+		Dependencies: Orchard.MediaLibrary
